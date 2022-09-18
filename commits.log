@@ -1,0 +1,85 @@
+commit 74a845772ea025deceb5e3eae44201af1a6e5619
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Fri Sep 16 21:56:26 2022 -0300
+
+    Agregando dos parrafos
+
+commit b82500849d0820e749b32b467b4925bce1622c3d
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Thu Sep 15 21:53:58 2022 -0300
+
+    Agregando las estaciones del Año
+
+commit 0ebd3e8debc0c13d02545f82d516da5d2ce64139
+Merge: 9767165 291e449
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 23:14:28 2022 -0300
+
+    Resolviendo conflicto merge merge/html en el documento index.html
+
+commit 291e449255c34e04e59ea3cdcdb90e748f93e1e9
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 23:00:08 2022 -0300
+
+    Agregando index.js al index.html
+
+commit 9767165199b3fec97196eb3a18f5ad3ae12efe89
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 22:43:16 2022 -0300
+
+    Agregando style.css al index.html
+
+commit a3fb68f2966ece63d289c728cecf6b0e6f683615
+Merge: 6dc3726 949f245
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 22:05:42 2022 -0300
+
+    Merge branch 'js'
+
+commit 949f24577750ea216475dc01bd786841a6178dba
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 21:54:51 2022 -0300
+
+    Creando index.js
+
+commit 6dc372684f9f323c622bf56a573a9be42712106e
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 21:44:29 2022 -0300
+
+    Creando style.css
+
+commit 5c9ba03654648ea7aee086c78a8e21750d5ff5cd
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Wed Sep 14 21:26:30 2022 -0300
+
+    Creando index.html
+
+commit 832b664108ee9fc66e71d0b13f877ffce9a007a8
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Tue Sep 13 23:00:21 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 0dcee94ba99bb400c89930dfdba51d4ec09fc6d8
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Tue Sep 13 20:47:11 2022 -0300
+
+    Ups me olvide de este cambio
+
+commit 0de36b0ca5957dbd33f7427fa5a69dbdb52ae24a
+Author: mosilisque <113152381+mosilisque@users.noreply.github.com>
+Date:   Tue Sep 13 14:35:48 2022 -0300
+
+    Creando licencia para el repositorio
+
+commit 8c8143b75fb36b2d71cf879260819d83f633fd20
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Tue Sep 13 14:09:15 2022 -0300
+
+    Agregando contenido al README
+
+commit bf3d57007ad389635ba10d119e2985e888721058
+Author: Monica Silisque <monicasilisque@gmail.com>
+Date:   Mon Sep 12 21:55:42 2022 -0300
+
+    Primer commit :)
